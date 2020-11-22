@@ -1,0 +1,22 @@
+
+!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="bootstrap.css">
+    <title>Table Json CGI</title>
+</head>
+
+<body>
+    <form action="/cgi-bin/ENV-CGI" method="post">
+        Name: <input type="text" name="username" /><br>
+        Id: <input type="text" name="id" /><br>
+        <input type="submit" value="Send" />
+    </form>
+    <button id="btn">Load data</button>
+    <div id="result"></div>
+</body>
+<script src="javascript.js"></script>
+
+</html>

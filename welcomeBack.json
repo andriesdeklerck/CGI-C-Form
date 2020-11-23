@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "1",
+    "TreeType": "Acer campestre",
+    "DateTime": "Sat Nov 21 17:08:20 2020"
+  },
+  {
+    "Id": "2",
+    "TreeType": "Acer campestre ' Elsrijk'",
+    "DateTime": "Sat Nov 21 17:08:20 2020"
+  },
+  {
+    "Id": "3",
+    "TreeType": "Acer negundo 'Aureomarginatum'",
+    "DateTime": "Sat Nov 21 17:08:20 2020"
+  },
+  {
+    "Id": "4",
+    "TreeType": "Acer negundo 'Variegatum'(Arg.Var.)",
+    "DateTime": "Sat Nov 21 17:08:20 2020"
+  },
+  {
+    "Id": "5",
+    "TreeType": "Acer plat. 'Schwedleri'",
+    "DateTime": "Sat Nov 21 17:08:20 2020"
+  },
+  {
+    "Id": "6",
+    "TreeType": "Acer platanodes 'Autumn Blaze'",
+    "DateTime": "Sat Nov 21 17:08:20 2020"
+  },
+  {
+    "Id": "7",
+    "TreeType": "Acer platanoIdes",
+    "DateTime": "Sat Nov 21 17:08:20 2020"
+  },
+  {
+    "Id": "8",
+    "TreeType": "Acer platanoIdes 'Cleveland'",
+    "DateTime": "Sat Nov 21 17:08:20 2020"
+  },
+  {
+    "Id": "9",
+    "TreeType": "Acer platanoIdes 'Columnare'",
+    "DateTime": "Sat Nov 21 17:08:20 2020"
+  }
+]
